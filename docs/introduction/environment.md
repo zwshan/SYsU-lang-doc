@@ -34,7 +34,7 @@ wsl -d Ubuntu --install         # 安装 Ubuntu 系统
 
 ![WSL安装示意](../images/vscodeplugin.png)
 
-在同学们安装好 dev containers 之后，请打开[实验 github 仓库页面](https://github.com/yhgu2000/SYsU-lang)，点击 `fork` 按钮，
+在同学们安装好 dev containers 之后，请打开[实验 github 仓库页面](https://github.com/arcsysu/SYsU-lang2)，点击 `fork` 按钮，
 
 ![fork 按钮1](../images/fork1.jpg)
 
