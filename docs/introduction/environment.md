@@ -46,7 +46,7 @@ wsl -d Ubuntu --install         # 安装 Ubuntu 系统
 
 ![fork 按钮3](../images/fork3.jpg)
 
-在同学们完成实验仓库的fork之后，请回到 vscode 点击左下角的红色数字 1 所指的齿轮，然后再点击红色数字 2 所指的按钮打开command palette
+在同学们完成实验仓库的fork之后，请回到 vscode 点击左下角的红色数字 1 所指的齿轮，然后再点击红色数字 2 所指的按钮打开command palette(或者ctrl+shift+p)
 
 ![dev安装示意](../images/devcon1.png)
 
@@ -78,5 +78,8 @@ wsl -d Ubuntu --install         # 安装 Ubuntu 系统
 待同学们使用 dev containers 构建完成之后，就意味着实验相关的所有 linux  系统应用软件以及 vscode 插件都已经安装完成了。在下一小节中我们将会详细介绍如何使用实验框架。
 
 <!-- ![showlog](../images/envok.png) -->
+
+同学们下次再启动时只需在vscode左侧栏的remote explorer点击向右的箭头即可
+![image](https://github.com/zwshan/SYsU-lang-doc/assets/160494058/f10f7e7e-918e-4163-b304-6905c5bcb847)
 
 
